@@ -1,9 +1,9 @@
-#title-card {
+.title-card {
     background-color: black;    
     color: white;
     width: 90%;
-    margin:1px;
-    align-self: center;
+    margin:auto;
+    
     height: 200px;
 
 
@@ -11,10 +11,10 @@
     
 }
 
-#form-cont {
+.table {
     
     background-color:lightslategray;
-    margin-bottom: 1rem;
+    margin-bottom: auto;
     margin: auto;
     max-width: 90%;
     position: relative;
@@ -22,11 +22,12 @@
 
 }
 
-.form-control {
+.form-group {
 
     
     width:80%;
     margin: auto;
+    margin-bottom: auto;
     max-width: 90%;
     position: relative; 
     text-align:left;   
