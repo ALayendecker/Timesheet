@@ -1,0 +1,34 @@
+#title-card {
+    background-color: black;    
+    color: white;
+    width: 90%;
+    margin:1px;
+    align-self: center;
+    height: 200px;
+
+
+
+    
+}
+
+#form-cont {
+    
+    background-color:lightslategray;
+    margin-bottom: 1rem;
+    margin: auto;
+    max-width: 90%;
+    position: relative;
+
+
+}
+
+.form-control {
+
+    
+    width:80%;
+    margin: auto;
+    max-width: 90%;
+    position: relative; 
+    text-align:left;   
+
+}
